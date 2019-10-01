@@ -224,6 +224,11 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   [![twitter-alt][twitter-img]](https://twitter.com/abaykandotcom)
   [![github-alt][github-img]](https://github.com/abaykan)
 
+### Abs
+- Graduate full stack developer
+- Starting out in workforce fresh
+-  [![github-alt][github-img]](https://github.com/stephanieyu70)
+
 ### Abhishek
 
 - I am Student
